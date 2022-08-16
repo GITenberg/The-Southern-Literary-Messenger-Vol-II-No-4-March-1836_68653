@@ -1,0 +1,26 @@
+_repo: The-Southern-Literary-Messenger-Vol-II-No-4-March-1836_68653
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-07-30'
+identifiers:
+  gutenberg: '68653'
+language: en
+pgterms:marc904: https://archive.org/details/southernliterary02rich
+pgterms:marc905: 20201214083426various
+pgterms:marc906: '1836'
+pgterms:marc907: US
+production_note: Ron Swanson
+publication_note: United States :T. W. White, Publisher and Proprietor,1836.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Southern Literary Messenger, Vol. II., No. 4, March, 1836
+url: http://www.gutenberg.org/ebooks/68653
