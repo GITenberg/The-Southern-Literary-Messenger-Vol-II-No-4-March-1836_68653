@@ -1,5 +1,8 @@
 _repo: The-Southern-Literary-Messenger-Vol-II-No-4-March-1836_68653
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68653#The-Southern-Literary-Messenger-Vol-II-No-4-March-1836
 gutenberg_issued: '2022-07-30'
 identifiers:
   gutenberg: '68653'
